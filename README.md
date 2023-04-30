@@ -1,5 +1,7 @@
 <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{\sqrt{ 2 \pi \sigma^2 }} \exp\biggl( - \frac{ (x - \mu)^2 } {2 \sigma^2} \biggr)" width="500">
-
+```math
+\sqrt{3}
+```
 # Nguồn gốc của toán học [1] ?
 
 Từ toán học có nghĩa là "khoa học, tri thức hoặc học tập". Ngày nay, thuật ngữ "toán học" chỉ một bộ phận cụ thể của tri thức - ngành nghiên cứu suy luận về lượng, cấu trúc, và sự thay đổi; là ngôn ngữ của vũ trụ. Lĩnh vực của ngành học về Lịch sử Toán học phần lớn là sự nghiên cứu nguồn gốc của những khám phá mới trong toán học, theo nghĩa hẹp hơn là nghiên cứu các phương pháp và ký hiệu toán học chuẩn trong quá khứ.
