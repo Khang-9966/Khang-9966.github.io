@@ -1,3 +1,5 @@
+<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{\sqrt{ 2 \pi \sigma^2 }} \exp\biggl( - \frac{ (x - \mu)^2 } {2 \sigma^2} \biggr)" width="500">
+
 # Nguồn gốc của toán học [1] ?
 
 Từ toán học có nghĩa là "khoa học, tri thức hoặc học tập". Ngày nay, thuật ngữ "toán học" chỉ một bộ phận cụ thể của tri thức - ngành nghiên cứu suy luận về lượng, cấu trúc, và sự thay đổi; là ngôn ngữ của vũ trụ. Lĩnh vực của ngành học về Lịch sử Toán học phần lớn là sự nghiên cứu nguồn gốc của những khám phá mới trong toán học, theo nghĩa hẹp hơn là nghiên cứu các phương pháp và ký hiệu toán học chuẩn trong quá khứ.
@@ -8,13 +10,21 @@ Những cống hiến của Hy Lạp cổ đại với toán học, nhìn chung 
 
 Một đặc điểm đáng chú ý của lịch sử toán học cổ và trung đại là theo sau sự bùng nổ của các phát triển toán học thường là sự ngưng trệ hàng thế kỉ. Bắt đầu vào Thời kì Phục Hưng tại Ý vào thế kỉ 16, các phát triển toán học mới, tương tác với các phát hiện khoa học mới, đã được thực hiện với tốc độ ngày càng tăng, và điều này còn tiếp diễn cho tới hiện tại.
 
-# Khoa học dữ liệu là gì là gì [2] ?
+# Khoa học là gì [2] ? 
+
+Khoa học (Tiếng Anh: science, Chữ Hán: 科學) là hệ thống kiến thức về những định luật, cấu trúc và cách vận hành của thế giới tự nhiên, được đúc kết qua từng giai đoạn lịch sử thông qua việc quan sát, mô tả, đo đạc, thực nghiệm, phát triển lý thuyết bằng các phương pháp khoa học
+
+# Dữ liệu là gì [3] ?
+
+Dữ liệu bao gồm những mệnh đề phản ánh thực tại. Một phân loại lớn của các mệnh đề quan trọng trong thực tiễn là các đo đạc hay quan sát về một đại lượng biến đổi. Các mệnh đề đó có thể bao gồm các số, từ hoặc hình ảnh.
+
+# Khoa học dữ liệu là gì là gì [4] ?
 
 Khoa học dữ liệu là một lĩnh vực liên ngành về các quá trình và các hệ thống rút trích tri thức hoặc hiểu biết từ dữ liệu ở các dạng khác nhau, kể ở dạng cấu trúc hay phi cấu trúc, là sự tiếp nối của một số lĩnh vực phân tích dữ liệu như khoa học thống kê, khai phá dữ liệu, tương tự như khám phá tri thức ở các cơ sở dữ liệu (KDD).
 
-# Trí tuệ nhân tạo là gì [3] ? 
+# Trí tuệ nhân tạo là gì [5] ? 
 
-Trong khoa học máy tính, trí tuệ nhân tạo hay AI (tiếng Anh: artificial intelligence), đôi khi được gọi là trí thông minh nhân tạo, là trí thông minh được thể hiện bằng máy móc, trái ngược với trí thông minh tự nhiên của con người. Thông thường, thuật ngữ "trí tuệ nhân tạo" thường được sử dụng để mô tả các máy móc (hoặc máy tính) có khả năng bắt chước các chức năng "nhận thức" mà con người thường phải liên kết với tâm trí, như "học tập" và "giải quyết vấn đề".[1][2][3]
+Trong khoa học máy tính, trí tuệ nhân tạo hay AI (tiếng Anh: artificial intelligence), đôi khi được gọi là trí thông minh nhân tạo, là trí thông minh được thể hiện bằng máy móc, trái ngược với trí thông minh tự nhiên của con người. Thông thường, thuật ngữ "trí tuệ nhân tạo" thường được sử dụng để mô tả các máy móc (hoặc máy tính) có khả năng bắt chước các chức năng "nhận thức" mà con người thường phải liên kết với tâm trí, như "học tập" và "giải quyết vấn đề".
 
 ## Description
 
@@ -39,19 +49,12 @@ An in-depth paragraph about your project and overview of use.
 ```
 code blocks for commands
 ```
-<img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}" width="500">
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
 
+Khang Đoàn
 dtkhangbk@gmail.com
 
 ## Version History
@@ -76,6 +79,13 @@ Inspiration, code snippets, etc.
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
 ## References
+
 [1] https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_to%C3%A1n_h%E1%BB%8Dc
-[2] https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_d%E1%BB%AF_li%E1%BB%87u
-[3] https://vi.wikipedia.org/wiki/Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o
+
+[2] https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc#:~:text=Khoa%20h%E1%BB%8Dc%20(Ti%E1%BA%BFng%20Anh%3A%20science,c%C3%A1c%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20khoa%20h%E1%BB%8Dc. 
+
+[3] https://vi.wikipedia.org/wiki/D%E1%BB%AF_li%E1%BB%87u#
+
+[4] https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_d%E1%BB%AF_li%E1%BB%87u
+
+[5] https://vi.wikipedia.org/wiki/Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o
