@@ -80,12 +80,12 @@ Inspiration, code snippets, etc.
 
 ## References
 
-[1] https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_to%C3%A1n_h%E1%BB%8Dc
+[1](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_to%C3%A1n_h%E1%BB%8Dc) wikipedia
 
-[2] https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc#:~:text=Khoa%20h%E1%BB%8Dc%20(Ti%E1%BA%BFng%20Anh%3A%20science,c%C3%A1c%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20khoa%20h%E1%BB%8Dc. 
+[2](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc#:~:text=Khoa%20h%E1%BB%8Dc%20(Ti%E1%BA%BFng%20Anh%3A%20science,c%C3%A1c%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20khoa%20h%E1%BB%8Dc.) wikipedia
 
-[3] https://vi.wikipedia.org/wiki/D%E1%BB%AF_li%E1%BB%87u#
+[3](https://vi.wikipedia.org/wiki/D%E1%BB%AF_li%E1%BB%87u#) wikipedia
 
-[4] https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_d%E1%BB%AF_li%E1%BB%87u
+[4](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_d%E1%BB%AF_li%E1%BB%87u) wikipedia
 
-[5] https://vi.wikipedia.org/wiki/Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o
+[5](https://vi.wikipedia.org/wiki/Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o) wikipedia
