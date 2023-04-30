@@ -1,5 +1,5 @@
 
-<img src="https://latex.codecogs.com/gif.latex?f(x)=\frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{\!2}\,\right)" width="500" margin="auto" />
+<img src="https://latex.codecogs.com/gif.latex?f(x)=\frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{\!2}\,\right)" width="200" margin="auto" />
 
 # Nguồn gốc của toán học [1] ?
 
