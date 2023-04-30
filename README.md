@@ -1,11 +1,6 @@
-<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{\sqrt{ 2 \pi \sigma^2 }} \exp\biggl( - \frac{ (x - \mu)^2 } {2 \sigma^2} \biggr)" width="500">
-
+<center>
 <img src=https://latex.codecogs.com/gif.latex?f(x) = \frac{1}{\sigma\sqrt{2\pi}} \exp\left( -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{\!2}\,\right) width="500">
-
-```math
-  f(x) = \frac{1}{\sigma\sqrt{2\pi}} 
-  \exp\left( -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{\!2}\,\right)
-```
+<center>
 
 # Nguồn gốc của toán học [1] ?
 
