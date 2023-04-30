@@ -1,6 +1,6 @@
 <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{\sqrt{ 2 \pi \sigma^2 }} \exp\biggl( - \frac{ (x - \mu)^2 } {2 \sigma^2} \biggr)" width="500">
 
-![equation](https://latex.codecogs.com/gif.latex?1%2Bsin%28mc%5E2%29%0D%0A)
+![equation](https://latex.codecogs.com/gif.latex?f(x) = \frac{1}{\sigma\sqrt{2\pi}} \exp\left( -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{\!2}\,\right))
 
 ```math
   f(x) = \frac{1}{\sigma\sqrt{2\pi}} 
