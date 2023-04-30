@@ -26,6 +26,7 @@ An in-depth paragraph about your project and overview of use.
 ```
 code blocks for commands
 ```
+<img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
 
 ## Help
 
